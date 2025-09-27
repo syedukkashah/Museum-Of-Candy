@@ -1,4 +1,4 @@
-# 🎨 Museum of Candy
+# Museum of Candy
 
 A mini-project from **Colt Steele's Web Development Bootcamp** — playing around with introductory **Bootstrap** concepts like:
 
@@ -10,7 +10,7 @@ A mini-project from **Colt Steele's Web Development Bootcamp** — playing aroun
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 - HTML5
 - CSS3
 - [Bootstrap 5](https://getbootstrap.com/)
@@ -21,6 +21,6 @@ Built while following [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/cou
 
 ---
 
-### 📜 License
+### License
 
 This project is for learning purposes only.
