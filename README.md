@@ -6,7 +6,7 @@ A mini-project from **Colt Steele's Web Development Bootcamp** — playing aroun
 - Navbar and sections
 - Grid system and utilities
 
-📷 Image assets are sourced from [Unsplash.com](https://unsplash.com)
+ Image assets are sourced from [Unsplash.com](https://unsplash.com)
 
 ---
 
